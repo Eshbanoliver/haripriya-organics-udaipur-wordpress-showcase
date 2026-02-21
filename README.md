@@ -16,7 +16,6 @@ Custom WordPress website developed for Haripriya Organics, a trusted producer of
 - Products showcase: Kachi Ghani/Cold-Pressed Mustard Oil, Coconut Oil, Sesame Oil, Groundnut Oil – all pure, chemical-free, traditionally made for cooking, hair care, and natural health
 - About section highlighting trusted maker of pure oils, traditional methods, healthier lifestyle benefits, and commitment to organic wellness
 - Testimonials from satisfied customers praising purity, quality, natural taste, and health benefits
-- Contact section with phone (+91 63772 36026), email (haripriyaorganicsudaipur@gmail.com), address (Brij Vihar, 80 Feet Road, RK Circle, Udaipur, Rajasthan), and inquiry form
 - Responsive, natural/green design optimized for product visuals (mobile-first)
 - SEO-friendly for local Udaipur organic oil/cold-pressed searches
 
